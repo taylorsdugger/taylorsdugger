@@ -114,14 +114,6 @@ Built real-time tracking system handling:
 
 ---
 
-## 📊 GitHub Activity
-
-![Taylor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taylordugger&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taylordugger&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 🌍 Work Preferences
 
 - **Location:** Remote-first, open to hybrid in Quad-Cities (IL) metro
