@@ -30,30 +30,20 @@ I thrive in high-stakes, high-velocity environments where reliability, performan
 ### Backend & Architecture
 ![Backend & Architecture](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,dotnet,cs,go&perline=7)
 
-**Languages & Frameworks:** JavaScript, TypeScript, Node.js, React, React Native, PHP, .NET/C#, Go
-
 ### Databases & Caching
 ![Databases & Caching](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch&perline=6)
-
-**Data Stores:** MongoDB, MySQL, PostgreSQL, Redis, Elasticsearch, OpenSearch
 
 ### DevOps & Cloud
 ![DevOps & Cloud](https://skillicons.dev/icons?i=aws,kubernetes,docker,githubactions&perline=6)
 
-**CI/CD & Tooling:** GitHub Actions, Harness, Docker
-
+### Systems & Infrastructure
 ![Systems & Infrastructure](https://skillicons.dev/icons?i=kafka,rabbitmq,redis&perline=6)
-
-**Systems & Infrastructure:** AWS, Kubernetes, Kafka, RabbitMQ, Redis
 
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,typescript&perline=6)
 
-![Mobile](https://skillicons.dev/icons?i=react&perline=6)
-
-**Quality & Observability:** Jest, Vitest, Playwright, Cucumber, Datadog, Prometheus
-
-![Quality & Observability](https://skillicons.dev/icons?i=jest,vitest,playwright,cucumber,datadog,prometheus&perline=6)
+### Quality & Observability
+![Quality & Observability](https://skillicons.dev/icons?i=jest,vitest&perline=6)
 
 ---
 
