@@ -3,7 +3,7 @@
 ### Senior Software Engineer | Platform Architecture | Event-Driven Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taylor-dugger/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=vercel)](https://taylordugger.dev)
+[![Personal Site](https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=vercel)](https://taylordugger.com)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:taylorsdugger@gmail.com)
 
 ---
@@ -14,11 +14,12 @@ Senior Software Engineer with 8+ years building production-grade, scalable syste
 
 **Core expertise:**
 
-- **Backend Architecture**: TypeScript, JavaScript, Node.js, C#, .NET Core, event-driven microservices
-- **Infrastructure**: Kafka, RabbitMQ, Redis, AWS (Lambda, ECS, S3), Azure, Kubernetes
-- **Databases**: SQL Server, PostgreSQL, MongoDB, Elasticsearch, OpenSearch
-- **Platform Engineering**: API design, observability, distributed systems
-- **Frontend**: React, Next.js, TypeScript, modern JavaScript
+- **Backend Architecture**: JavaScript, TypeScript, Node.js, PHP, C#, .NET Core, Go, event-driven microservices
+- **Infrastructure**: AWS (Lambda, ECS, S3), Kubernetes, Kafka, RabbitMQ, Redis, Docker
+- **Databases**: PostgreSQL, MySQL, MongoDB, Elasticsearch, OpenSearch, SQL Server
+- **Quality & Observability**: Jest, Vitest, Playwright, Cucumber, Datadog, Prometheus
+- **CI/CD & Tooling**: GitHub Actions, Harness
+- **Frontend**: React, React Native, Next.js, TypeScript
 
 I thrive in high-stakes, high-velocity environments where reliability, performance, and maintainability matter. The kind of work where "it just works" is the highest compliment.
 
@@ -27,16 +28,32 @@ I thrive in high-stakes, high-velocity environments where reliability, performan
 ## 🛠️ Technical Stack
 
 ### Backend & Architecture
-![.NET](https://skillicons.dev/icons?i=typescript,nodejs,dotnet,cs,kafka&perline=6)
+![Backend & Architecture](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,dotnet,cs,go&perline=7)
+
+**Languages & Frameworks:** JavaScript, TypeScript, Node.js, React, React Native, PHP, .NET/C#, Go
 
 ### Databases & Caching
-![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&perline=6)
+![Databases & Caching](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch&perline=6)
+
+**Data Stores:** MongoDB, MySQL, PostgreSQL, Redis, Elasticsearch, OpenSearch
 
 ### DevOps & Cloud
-![DevOps](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,github,jenkins&perline=6)
+![DevOps & Cloud](https://skillicons.dev/icons?i=aws,kubernetes,docker,githubactions&perline=6)
+
+**CI/CD & Tooling:** GitHub Actions, Harness, Docker
+
+![Systems & Infrastructure](https://skillicons.dev/icons?i=kafka,rabbitmq,redis&perline=6)
+
+**Systems & Infrastructure:** AWS, Kubernetes, Kafka, RabbitMQ, Redis
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind&perline=6)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,typescript&perline=6)
+
+![Mobile](https://skillicons.dev/icons?i=react&perline=6)
+
+**Quality & Observability:** Jest, Vitest, Playwright, Cucumber, Datadog, Prometheus
+
+![Quality & Observability](https://skillicons.dev/icons?i=jest,vitest,playwright,cucumber,datadog,prometheus&perline=6)
 
 ---
 
@@ -58,7 +75,7 @@ Built the marketplace platform connecting 20K+ field service providers with ente
 ---
 
 ### 🔹 Software Engineer I / II — C.H. Robinson (2017–2019)
-*Hybrid | Eden Prairie, MN*
+*Eden Prairie, MN*
 
 Led B2B supply chain visibility platform through **500% customer growth**:
 
